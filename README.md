@@ -2,7 +2,7 @@
 
 * 👨‍💻 **Lead Software Engineer** with **5+ years** of experience
 * 🚀 Specializes in building **scalable backend systems**, **AI-driven applications**, and **cloud-native solutions**
-* ⚡ Expert in **Python/Django**, **REST APIs**, and **microservices architecture**
+* ⚡ Expert in **Python/Django**,**React** **REST APIs**, and **microservices architecture**
 * 🎯 Proven track record of **improving API performance by 30%** and delivering **20+ projects from scratch**
 * 🏢 Experienced in working with **international clients**, **enterprise solutions**, and **high-growth startups**
 * 👥 **Team Lead** with expertise in mentoring developers and coordinating cross-functional teams
@@ -13,6 +13,9 @@
 * **Python** (Django, Flask, FastAPI, DRF)
 * **REST APIs**, **GraphQL**, **Microservices**
 * **Database Optimization** & **Query Performance Tuning**
+
+### **Front-End Development:**
+* **JavaScript** (React & Next)
 
 ### **Cloud & DevOps:**
 * **AWS** (Lambda, EC2, S3, RDS)
@@ -99,6 +102,7 @@ Looking for a **Lead Software Engineer** to architect your next big project? Let
 * 📧 **Email**: [Abdullahfaiz017@gmail.com](mailto:Abdullahfaiz017@gmail.com)
 * 📱 **Phone**: +92-316-4125850
 * 💼 **LinkedIn**: [linkedin.com/in/abdullahfaiz17](https://www.linkedin.com/in/abdullahfaiz17/)
+* 💼 **Upwork**: [Upwork.com/freelancers/~013bde165c26e7920c](https://www.upwork.com/freelancers/~013bde165c26e7920c)
 * 🌍 **Location**: Lahore, Pakistan (GMT+5)
 * 🚀 **Available for**: Remote contracts, team leadership roles, and technical consulting
 
